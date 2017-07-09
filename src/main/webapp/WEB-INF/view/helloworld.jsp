@@ -8,9 +8,15 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>$Title$</title>
+    <title>Title</title>
 </head>
 <body>
-$END$
+Hello World of Spring
+<br><br>
+Student name: ${param.studentName}
+
+<br><br>
+The messege: ${messega}
+
 </body>
 </html>
